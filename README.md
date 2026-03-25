@@ -24,4 +24,4 @@ To view this project locally:
 1. Clone or download the repository to your local machine.
 2. Navigate to the project directory
 3. Open `index.html` in any modern web browser (Google Chrome, Mozilla Firefox, Safari, Edge, etc.). No local development server or additional setup is required.
-4. Or simply [click here]url(https://foodhub-website.netlify.app/)
+4. Or simply [click here](https://foodhub-website.netlify.app/)
